@@ -6,11 +6,12 @@ Built with Java, Spring Boot, and H2 database.
 
 ### Features
 
-- ✅ Create a new task
+- ✅ CRUD your tasks
+- ✅ Create your account
+- ✅ Authentication and Authorization
 - ✅ Get all tasks
 - ✅ Get a task by id
-- ✅ Update a task
-- ✅ Delete a task
+- ✅ Searching, sorting and filtering
 
 ## 📚 Table of Contents
 
