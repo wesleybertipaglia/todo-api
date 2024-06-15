@@ -56,13 +56,13 @@ The application will start on port 8080.
 
 The following checklist can be used to track the project progress:
 
-- [ ] CRUD operations
-- [ ] Pagination, sorting, and filtering
-- [ ] Authentication and authorization
+- [x] CRUD operations
+- [x] Pagination, sorting, and filtering
+- [x] Authentication and authorization
 - [ ] Tests (unit, integration, and end-to-end)
 - [ ] Docker containerization
 - [ ] CI/CD
-- [ ] Documentation
+- [x] Documentation
 - [ ] Logging and error handling
 - [ ] Deployment
 - [ ] Monitoring
