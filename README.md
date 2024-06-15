@@ -60,11 +60,11 @@ The following checklist can be used to track the project progress:
 - [x] Pagination, sorting, and filtering
 - [x] Authentication and authorization
 - [ ] Tests (unit, integration, and end-to-end)
-- [ ] Docker containerization
+- [x] Docker containerization
 - [ ] CI/CD
 - [x] Documentation
 - [ ] Logging and error handling
-- [ ] Deployment
+- [x] Deployment
 - [ ] Monitoring
 
 ## 📜 License
