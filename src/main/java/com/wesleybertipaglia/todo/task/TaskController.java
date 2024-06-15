@@ -38,7 +38,7 @@ public class TaskController {
         var userId = request.getAttribute("userId");
         taskModel.setUserId((UUID) userId);
         var taskCreated = this.taskRepository.save(taskModel);
-        return ResponseEntity.status(HttpStatus.ACCEPTED).body(taskCreated);
+        return ResponseEntity.status(HttpStatus.CREATED).body(taskCreated);
     }
 
     @GetMapping("/")
